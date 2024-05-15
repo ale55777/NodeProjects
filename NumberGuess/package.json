@@ -1,0 +1,19 @@
+{
+  "name": "narzoaleguess",
+  "version": "1.0.1",
+  "description": "Guess the number ",
+  "main": "Ali.js",
+  "type": "module",
+  "bin":"Ali.js",
+  "scripts": {
+    "test": "node Ali.js"
+  },
+  "author": "Alooo",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
