@@ -1,0 +1,16 @@
+{
+  "name": "narzoalicountdown_timer",
+  "version": "1.0.1",
+  "description": "this is timer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "Timer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  }
+}
